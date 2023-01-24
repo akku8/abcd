@@ -1,0 +1,63 @@
+S.no,Solution Area ,Focus,Certification Number ,Category,Old Certification number,Certification Number ,Certification Name ,Learning Path URL,Level
+1,Azure,Apps & Infra,AZ-104,Admin,AZ-103,AZ-104,Microsoft Azure Administrator,Link,Intermediate 
+,,,AZ-204,Apps,AZ-203,AZ-204,Azure Developer Associate,Link,Intermediate 
+,,,AZ-500,Infra,,AZ-500,Microsoft Azure Security Technologies,Link,Intermediate 
+,,,AZ-600,Infra,,AZ-600,Azure Stack Hub Operator Associate,Link,Intermediate 
+,,,AZ-700,Infra,,AZ-700,Designing and Implementing Microsoft Azure Networking Solutions (beta),Link,Intermediate 
+,,,AZ-720,Infra,,AZ-720,Troubleshooting Microsoft Azure Connectivity (beta),Link,Intermediate 
+,,,AZ-800,Infra,,AZ-800,Administering Windows Server Hybrid Core Infrastructure (beta),Link,Intermediate 
+,,,AZ-801,Infra,,AZ-801,Configuring Windows Server Hybrid Advanced Services (beta),Link,Intermediate 
+,,,AZ-305,Infra,AZ-301 > AZ-304,AZ-305,Designing Microsoft Azure Infrastructure Solutions,Link,Advanced
+,,,,Infra,AZ-300 > AZ-303,,,,
+,,,AZ-120,Infra,,AZ-120,Planning and Administering Microsoft Azure for SAP Workloads,Link,Advanced
+,,,AZ-140,Infra,,AZ-140,Configuring and Operating Microsoft Azure Virtual Desktop,Link,Intermediate 
+,,,AZ-900,Fundamental,,AZ-900,Microsoft Azure Fundamentals,Link,Fundamental 
+,,Data & AI,AI-102 ,AI,AI-100,AI- 102,Designing and Implementing an Azure AI Solution,Link,Intermediate 
+,,,AI-900,AI,,AI-900,Microsoft Azure AI Fundamentals,Link,Fundamental 
+,,,DP-420,Data,,DP-420,Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB (beta),Link,Intermediate 
+,,,DP-900,Data,,DP-900,Microsoft Azure Data Fundamentals,Link,Fundamental 
+,,,DP-203,Data,DP-200/201,DP-203,Data Engineering on Microsoft Azure,Link,Intermediate 
+,,,DP-300,Data,,DP-300,Administering Relational Databases on Microsoft Azure,Link,Intermediate 
+,,,DP-100,Data,,DP-100,Designing and Implementing a Data Science Solution on Azure,Link,Intermediate 
+,,,DP-500,Data,,DP-500,Azure Enterprise Data Analyst Associate,Link,Intermediate 
+,,,MB-260,Data,,MB-260,Microsoft Customer Data Platform Specialist (beta),Link,Intermediate 
+2,Business Application ,Digital and app innovation,AZ-400,Digital and app innovation,,AZ-400,Designing and Implementing Microsoft DevOps Solutions,Link,Advanced
+,,,AZ-220,Digital and app innovation,,AZ-220,Microsoft Azure IoT Developer,Link,Intermediate 
+,,Dynamics,MB-210,Dynamics,,MB-210,Microsoft Dynamics 365 Sales,Link,Intermediate 
+,,,MB-220,Dynamics,,MB-220,Microsoft Dynamics 365 Marketing,Link,Intermediate 
+,,,MB-230,Dynamics,,MB-230,Microsoft Dynamics 365 Customer Service,Link,Intermediate 
+,,,MB-240,Dynamics,,MB-240,Microsoft Dynamics 365 Field Service,Link,Intermediate 
+,,,MB-300,Dynamics,,MB-300,Microsoft Dynamics 365: Core Finance and Operations,Link,Intermediate 
+,,,MB-310,Dynamics,,MB-310,Microsoft Dynamics 365 Finance,Link,Intermediate 
+,,,MB-320,Dynamics,,MB-320,"Microsoft Dynamics 365 Supply Chain Management, Manufacturing",Link,Intermediate 
+,,,MB-330,Dynamics,,MB-330,Microsoft Dynamics 365 Supply Chain Management,Link,Intermediate 
+,,,MB-340,Dynamics,,MB-340,Microsoft Dynamics 365 Commerce Functional Consultant (beta),Link,Intermediate 
+,,,MB-500,Dynamics,,MB-500, Microsoft Dynamics 365: Finance and Operations Apps Developer,Link,Intermediate 
+,,,MB-700,Dynamics,,MB-700,Microsoft Dynamics 365: Finance and Operations Apps Solution Architect,Link,Advanced
+,,,MB-800,Dynamics,,MB-800,Microsoft Dynamics 365 Business Central Functional Consultant,Link,Intermediate 
+,,,MB-910,Dynamics,MB-900> MB-901,MB-910, Microsoft Dynamics 365 Fundamentals (CRM),Link,Fundamental 
+,,,MB-920,Dynamics,,MB-920,Microsoft Dynamics 365 Fundamentals (ERP),Link,Fundamental 
+,,Power Platform,PL-900,Power Platform,,PL-900,Microsoft Power Platform Fundamentals,Link,Fundamental 
+,,,PL-100,Power Platform,,PL-100,Microsoft Power Platform App Maker,Link ,Intermediate 
+,,,PL-200,Power Platform,MB-200,PL-200,Microsoft Power Platform Functional Consultant,Link,Intermediate 
+,,,PL-300,Power Platform,DA-100,PL-300,Microsoft Power BI Data Analyst,Link,Intermediate 
+,,,PL-400,Power Platform,MB-400,PL-400,Microsoft Power Platform Developer,Link,Intermediate 
+,,,PL-600,Power Platform,MB-600,PL-600,Microsoft Power Platform Solution Architect,Link,Advanced
+3,Modern Work,Desktop,MD-101,Desktop,,MD-101,Managing Modern Desktops,Link,Intermediate 
+,,M365,MS-900,M365,,MS-900,Microsoft 365 Fundamentals,Link,Fundamental 
+,,,MS-101,M365,,MS-101,Microsoft 365 Mobility and Security,Link,Advanced
+,,,MS-100,M365,,MS-100,Microsoft 365 Identity and Services,Link,Advanced
+,,,MS-600,M365,,MS-600,Building Applications and Solutions with Microsoft 365 Core Services,Link,Intermediate 
+,,,MS-203,M365,,MS-203,Microsoft 365 Messaging,Link,Intermediate 
+,,Teams,MS-700,Teams,,MS-700,Managing Microsoft Teams,Link,Intermediate 
+,,,MS-720,Teams,,MS-720,Microsoft Teams Voice Engineer,Link,Advanced
+,,,MS-740,Teams,,MS-740,Troubleshooting Microsoft Teams,Link,Intermediate 
+,,Windows ,MD-100,Desktop,,MD-100,Windows  10,Link,Intermediate 
+4,Security,"Security,
+Compliance,
+and Identity",SC-900,Security,,SC-900,"Microsoft Security, Compliance, and Identity Fundamentals",Link,Fundamental 
+,,,MS-500,Security,,MS-500,Microsoft 365 Security Administration,Link,Intermediate 
+,,,SC-200,Security,,SC-200,Microsoft Security Operations Analyst ,Link,Intermediate 
+,,,SC-300,Security,,SC-300,Microsoft Identity and Access Administrator ,Link,Intermediate 
+,,,SC-400,Security,,SC-400,Microsoft Information Protection Administrator ,Link,Intermediate 
+,,,AZ-500,Security,,AZ-500,Microsoft Azure Security Technologies,Link,Intermediate 
